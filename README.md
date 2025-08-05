@@ -14,11 +14,11 @@ A simple and responsive weather application built with **React.js** and **OpenWe
 
 ## 🛠️ Tech Stack
 - React.js
-- CSS
+- CSS 
 - OpenWeatherMap API
 - Vite
 
----
+----
 
 ## 🖥️ Screenshots
 ![Weather App Screenshot](./src/assets/Screenshot.png)

@@ -9,5 +9,6 @@
 .app{
   min-height: 100vh;
   display: grid;
-  background-color: whitesmoke;
+  background-color: whitesmoke; 
+  
 }
